@@ -22,4 +22,6 @@ public class Factroy {
         });
         return proxyInstance;
     }
+
+    public static final String A = "a";
 }
